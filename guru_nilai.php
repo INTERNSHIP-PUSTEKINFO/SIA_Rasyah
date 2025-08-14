@@ -238,7 +238,7 @@ if (!$result) {
             <table class="table table-hover table-striped mb-0">
                 <thead class="table-primary text-center">
                     <tr>
-                        <th>No</th>
+                        <th>Nomer</th>
                         <th>NIS</th>
                         <th>Nama Siswa</th>
                         <th>Mata Pelajaran</th>
